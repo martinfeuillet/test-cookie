@@ -15,4 +15,4 @@ button2.addEventListener('click', function() {
     }
 })
 
-// if cookie exists, hide popupgi
+// if cookie exists, hide popupgi and advance a lot on this branch
